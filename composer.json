@@ -1,7 +1,7 @@
 {
     "name": "romainj/drupal-base-profile",
     "description": "Drupal base profile.",
-    "type": "project",
+    "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
     "homepage": "https://www.drupal.org/project/drupal"
 }
