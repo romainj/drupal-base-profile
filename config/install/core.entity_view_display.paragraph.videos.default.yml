@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.videos.field_videos
+    - paragraphs.paragraphs_type.videos
+id: paragraph.videos.default
+targetEntityType: paragraph
+bundle: videos
+mode: default
+content:
+  field_videos:
+    type: entity_reference_entity_view
+    weight: 0
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    region: content
+hidden: {  }

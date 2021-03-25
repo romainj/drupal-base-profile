@@ -1,0 +1,32 @@
+langcode: en
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: 2
+is_admin: null
+permissions:
+  - 'access content overview'
+  - 'access files overview'
+  - 'access media overview'
+  - 'configure editable landing_page node layout overrides'
+  - 'create and edit custom blocks'
+  - 'create document media'
+  - 'create image media'
+  - 'create landing_page content'
+  - 'create media'
+  - 'create remote_video media'
+  - 'delete media'
+  - 'delete own document media'
+  - 'delete own image media'
+  - 'delete own landing_page content'
+  - 'delete own remote_video media'
+  - 'edit own document media'
+  - 'edit own image media'
+  - 'edit own landing_page content'
+  - 'edit own remote_video media'
+  - 'update media'
+  - 'view landing_page revisions'
+  - 'view media'
+  - 'view own unpublished media'
+  - 'view unpublished paragraphs'

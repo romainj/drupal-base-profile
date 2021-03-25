@@ -1,0 +1,36 @@
+langcode: en
+status: true
+dependencies: {  }
+id: webmaster
+label: Webmaster
+weight: 3
+is_admin: null
+permissions:
+  - 'access content overview'
+  - 'access files overview'
+  - 'access media overview'
+  - 'administer media'
+  - 'administer nodes'
+  - 'administer taxonomy'
+  - 'administer users'
+  - 'configure all landing_page node layout overrides'
+  - 'configure any layout'
+  - 'create and edit custom blocks'
+  - 'delete all revisions'
+  - 'delete any document media'
+  - 'delete any image media'
+  - 'delete any landing_page content'
+  - 'delete any media'
+  - 'delete any remote_video media'
+  - 'delete landing_page revisions'
+  - 'edit any document media'
+  - 'edit any image media'
+  - 'edit any landing_page content'
+  - 'edit any remote_video media'
+  - 'revert all revisions'
+  - 'revert landing_page revisions'
+  - 'update any media'
+  - 'view all media revisions'
+  - 'view all revisions'
+  - 'view landing_page revisions'
+  - 'view unpublished paragraphs'

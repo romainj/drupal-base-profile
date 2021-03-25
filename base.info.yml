@@ -1,0 +1,52 @@
+name: Base project
+type: profile
+description: 'Base install for Drupal projects.'
+core_version_requirement: ^8 || ^9
+version: 1.0.0-alpha1
+install:
+  - admin_toolbar_tools
+  - automated_cron
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - config_split
+  - contextual
+  - contact
+  - contact_storage
+  - datetime
+  - devel
+  - devel_generate
+  - dynamic_page_cache
+  - editor
+  - field_ui
+  - file
+  - image
+  - layout_builder
+  - layout_builder_modal
+  - layout_builder_restrictions
+  - layout_discovery
+  - media
+  - media_library
+  - menu_ui
+  - menu_link_content
+  - node
+  - options
+  - paragraphs
+  - path
+  - page_cache
+  - rdf
+  - reroute_email
+  - responsive_image
+  - search
+  - seckit
+  - taxonomy
+  - toolbar
+  - views
+  - views_ui
+themes:
+  - adminimal_theme
+  - bartik
+  - bootstrap_barrio
+  - seven
