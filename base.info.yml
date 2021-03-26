@@ -10,6 +10,7 @@ install:
   - block
   - block_content
   - breakpoint
+  - chosen
   - ckeditor
   - config_split
   - contextual
@@ -29,12 +30,15 @@ install:
   - media_library
   - menu_ui
   - menu_link_content
+  - metatag
   - node
   - options
   - paragraphs
   - path
+  - pathauto
   - page_cache
   - rdf
+  - redirect
   - responsive_image
   - search
   - seckit
