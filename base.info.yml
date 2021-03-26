@@ -16,8 +16,6 @@ install:
   - contact
   - contact_storage
   - datetime
-  - devel
-  - devel_generate
   - dynamic_page_cache
   - editor
   - field_ui
@@ -37,7 +35,6 @@ install:
   - path
   - page_cache
   - rdf
-  - reroute_email
   - responsive_image
   - search
   - seckit
