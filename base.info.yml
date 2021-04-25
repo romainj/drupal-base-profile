@@ -6,6 +6,7 @@ version: 1.0.0-alpha1
 install:
   - admin_toolbar_tools
   - automated_cron
+  - back_office_access_restriction
   - big_pipe
   - block
   - block_content
@@ -38,6 +39,7 @@ install:
   - pathauto
   - page_cache
   - rdf
+  - recaptcha
   - redirect
   - responsive_image
   - search
