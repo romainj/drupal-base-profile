@@ -43,6 +43,7 @@ install:
   - path
   - pathauto
   - page_cache
+  - password_policy
   - rdf
   - recaptcha
   - redirect
