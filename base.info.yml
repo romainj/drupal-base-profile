@@ -24,6 +24,7 @@ install:
   - datetime
   - dynamic_page_cache
   - editor
+  - eu_cookie_compliance
   - field_ui
   - file
   - image
@@ -52,6 +53,7 @@ install:
   - seckit
   - taxonomy
   - toolbar
+  - verf
   - views
   - views_ui
 themes:
