@@ -16,6 +16,7 @@
     "require": {
         "drupal/admin_toolbar": "^2.4",
         "drupal/adminimal_theme": "^1.6",
+        "drupal/advagg": "^4.1",
         "drupal/back_office_access_restriction": "^1.1",
         "drupal/bootstrap_barrio": "^5.1",
         "drupal/chosen": "^3.0",

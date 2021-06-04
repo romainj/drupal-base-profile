@@ -5,6 +5,10 @@ core_version_requirement: ^8 || ^9
 version: 1.0.0-alpha1
 install:
   - admin_toolbar_tools
+  - advagg
+  - advagg_css_minify
+  - advagg_js_minify
+  - advagg_mod
   - automated_cron
   - back_office_access_restriction
   - big_pipe
