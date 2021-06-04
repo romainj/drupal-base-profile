@@ -23,6 +23,7 @@ install:
   - field_ui
   - file
   - image
+  - inline_form_errors
   - layout_builder
   - layout_builder_modal
   - layout_builder_restrictions
