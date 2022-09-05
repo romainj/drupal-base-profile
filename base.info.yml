@@ -59,5 +59,4 @@ install:
 themes:
   - adminimal_theme
   - bartik
-  - bootstrap_barrio
   - seven

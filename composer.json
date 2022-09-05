@@ -18,7 +18,6 @@
         "drupal/adminimal_theme": "^1.6",
         "drupal/advagg": "^4.1",
         "drupal/back_office_access_restriction": "^1.1",
-        "drupal/bootstrap_barrio": "^5.1",
         "drupal/chosen": "^3.0",
         "drupal/config_ignore": "^2.3",
         "drupal/config_split": "^1.7",
