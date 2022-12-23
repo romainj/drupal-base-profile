@@ -34,6 +34,7 @@
         "drupal/redirect": "*",
         "drupal/seckit": "*",
         "drupal/verf": "*",
-        "drupal/views_infinite_scroll": "*"
+        "drupal/views_infinite_scroll": "*",
+        "mnsami/composer-custom-directory-installer": "*"
     }
 }
