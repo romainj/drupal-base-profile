@@ -15,7 +15,6 @@
     },
     "require": {
         "drupal/admin_toolbar": "*",
-        "drupal/adminimal_theme": "*",
         "drupal/advagg": "*",
         "drupal/back_office_access_restriction": "*",
         "drupal/chosen": "*",
