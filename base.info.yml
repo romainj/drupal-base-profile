@@ -42,7 +42,6 @@ install:
   - node
   - options
   - paragraphs
-  - paragraphs_library
   - path
   - pathauto
   - page_cache
