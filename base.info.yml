@@ -10,7 +10,6 @@ install:
   - advagg_js_minify
   - advagg_mod
   - automated_cron
-  - back_office_access_restriction
   - big_pipe
   - block
   - block_content
