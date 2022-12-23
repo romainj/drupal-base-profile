@@ -22,7 +22,7 @@
         "drupal/config_ignore": "*",
         "drupal/config_split": "*",
         "drupal/contact_storage": "*",
-        "drupal/entity_usage": "*",
+        "drupal/entity_usage": "2.x-dev",
         "drupal/eu_cookie_compliance": "*",
         "drupal/layout_builder_blocks": "*",
         "drupal/layout_builder_modal": "*",
