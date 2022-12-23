@@ -33,13 +33,7 @@
         "drupal/recaptcha": "*",
         "drupal/redirect": "*",
         "drupal/seckit": "*",
-        "drupal/stage_file_proxy": "*",
         "drupal/verf": "*",
         "drupal/views_infinite_scroll": "*"
-    },
-    "require-dev": {
-        "drupal/devel": "*",
-        "drupal/reroute_email": "*",
-        "kint-php/kint": "*"
     }
 }

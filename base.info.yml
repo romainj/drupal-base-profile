@@ -22,8 +22,6 @@ install:
   - contact
   - contact_storage
   - datetime
-  - devel
-  - devel_generate
   - dynamic_page_cache
   - editor
   - eu_cookie_compliance
@@ -58,7 +56,6 @@ install:
   - responsive_image
   - search
   - seckit
-  - stage_file_proxy
   - taxonomy
   - toolbar
   - verf
