@@ -1,7 +1,7 @@
 name: Base project
 type: profile
 description: 'Base install for Drupal projects.'
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^9
 version: 1.0.0-alpha1
 install:
   - admin_toolbar_tools
@@ -57,6 +57,5 @@ install:
   - views
   - views_ui
 themes:
-  - adminimal_theme
-  - bartik
-  - seven
+  - olivero
+  - claro
