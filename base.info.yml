@@ -26,6 +26,7 @@ install:
   - devel_generate
   - dynamic_page_cache
   - editor
+  - entity_usage
   - eu_cookie_compliance
   - field_ui
   - file
