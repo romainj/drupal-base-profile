@@ -13,6 +13,7 @@ install:
   - big_pipe
   - block
   - block_content
+  - bootstrap_layout_builder
   - breakpoint
   - chosen
   - ckeditor
@@ -31,6 +32,7 @@ install:
   - image
   - inline_form_errors
   - layout_builder
+  - layout_builder_blocks
   - layout_builder_modal
   - layout_builder_restrictions
   - layout_discovery
@@ -42,10 +44,14 @@ install:
   - node
   - options
   - paragraphs
+  - paragraphs_library
   - path
   - pathauto
   - page_cache
   - password_policy
+  - password_policy_characters
+  - password_policy_character_types
+  - password_policy_length
   - rdf
   - recaptcha
   - redirect
@@ -57,6 +63,7 @@ install:
   - toolbar
   - verf
   - views
+  - views_infinite_scroll
   - views_ui
 themes:
   - olivero

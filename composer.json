@@ -17,11 +17,13 @@
         "drupal/admin_toolbar": "*",
         "drupal/advagg": "*",
         "drupal/back_office_access_restriction": "*",
+        "drupal/bootstrap_layout_builder": "*",
         "drupal/chosen": "*",
         "drupal/config_ignore": "*",
         "drupal/config_split": "*",
         "drupal/contact_storage": "*",
         "drupal/eu_cookie_compliance": "*",
+        "drupal/layout_builder_blocks": "*",
         "drupal/layout_builder_modal": "*",
         "drupal/layout_builder_restrictions": "*",
         "drupal/metatag": "*",
@@ -32,6 +34,7 @@
         "drupal/redirect": "*",
         "drupal/seckit": "*",
         "drupal/stage_file_proxy": "*",
-        "drupal/verf": "*"
+        "drupal/verf": "*",
+        "drupal/views_infinite_scroll": "*"
     }
 }
